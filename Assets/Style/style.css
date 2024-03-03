@@ -1,0 +1,21 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+#home {
+    background-color: #ffffff;
+}
+
+#offers {
+    background-color: #d9534f;
+}
+
+#about {
+    background-color: #ffffff;
+}
+
+#contact {
+    background-color: #d9534f ;
+}
